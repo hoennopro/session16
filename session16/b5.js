@@ -1,0 +1,10 @@
+"use strict";
+let undefinedVar1;
+let undefinedVar2;
+let numberVar;
+let noTypeVar;
+numberVar = 42;
+console.log("undefinedVar1:", undefinedVar1);
+console.log("undefinedVar2:", undefinedVar2);
+console.log("numberVar:", numberVar);
+console.log("noTypeVar:", noTypeVar);
